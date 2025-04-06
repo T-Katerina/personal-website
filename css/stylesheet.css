@@ -45,3 +45,14 @@ font-style: Helvetica;
 font-size: 20px;
 width: 1000px;
 }*/
+
+p2{
+	grid-column-start: 1;
+	grid-column-end: 5;
+}
+ 
+img{
+	grid-column-start: 1;
+	grid-column-end: 5;
+	
+}
